@@ -6,6 +6,7 @@ public class Equipment {
 	/**
 	 * @author _phl0w
 	 * @since 12-6-2012
+	 * Equipment API for Powerbot.
 	 */
 
 	public static final int WIDGET = 387;
